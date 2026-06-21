@@ -1,0 +1,81 @@
+employee_id,employee_name,branch_id,role,salary
+1,Employee_1,4,Analyst,50982
+2,Employee_2,7,Support,25715
+3,Employee_3,8,Cashier,68184
+4,Employee_4,4,Analyst,31073
+5,Employee_5,3,Cashier,21225
+6,Employee_6,8,Sales Executive,69233
+7,Employee_7,8,Support,52517
+8,Employee_8,3,Cashier,20910
+9,Employee_9,5,Cashier,59320
+10,Employee_10,8,Cashier,56472
+11,Employee_11,8,Cashier,27421
+12,Employee_12,1,Sales Executive,30350
+13,Employee_13,6,Sales Executive,59205
+14,Employee_14,1,Support,48248
+15,Employee_15,4,Analyst,55794
+16,Employee_16,7,Support,46542
+17,Employee_17,1,Sales Executive,56027
+18,Employee_18,8,Support,36119
+19,Employee_19,3,Analyst,35287
+20,Employee_20,10,Analyst,24538
+21,Employee_21,8,Sales Executive,45602
+22,Employee_22,4,Cashier,56445
+23,Employee_23,10,Support,27988
+24,Employee_24,9,Analyst,51588
+25,Employee_25,2,Sales Executive,27293
+26,Employee_26,1,Support,23318
+27,Employee_27,7,Analyst,42015
+28,Employee_28,7,Analyst,57292
+29,Employee_29,3,Cashier,62550
+30,Employee_30,8,Cashier,60819
+31,Employee_31,2,Analyst,67233
+32,Employee_32,4,Cashier,63149
+33,Employee_33,4,Cashier,66224
+34,Employee_34,5,Support,46160
+35,Employee_35,3,Support,51350
+36,Employee_36,6,Support,52064
+37,Employee_37,3,Cashier,51837
+38,Employee_38,1,Support,58285
+39,Employee_39,8,Support,58296
+40,Employee_40,9,Cashier,69635
+41,Employee_41,4,Sales Executive,27146
+42,Employee_42,2,Analyst,40517
+43,Employee_43,7,Sales Executive,33603
+44,Employee_44,8,Sales Executive,69690
+45,Employee_45,7,Analyst,35086
+46,Employee_46,9,Cashier,31303
+47,Employee_47,7,Sales Executive,49387
+48,Employee_48,7,Support,45258
+49,Employee_49,5,Support,63322
+50,Employee_50,10,Sales Executive,37711
+51,Employee_51,5,Sales Executive,28022
+52,Employee_52,7,Cashier,42069
+53,Employee_53,9,Sales Executive,66026
+54,Employee_54,10,Sales Executive,39589
+55,Employee_55,10,Cashier,24565
+56,Employee_56,8,Analyst,25664
+57,Employee_57,1,Sales Executive,69336
+58,Employee_58,9,Analyst,56364
+59,Employee_59,6,Sales Executive,26358
+60,Employee_60,5,Cashier,54398
+61,Employee_61,6,Sales Executive,35026
+62,Employee_62,7,Support,24401
+63,Employee_63,3,Cashier,34068
+64,Employee_64,4,Cashier,37483
+65,Employee_65,1,Support,46262
+66,Employee_66,8,Analyst,69428
+67,Employee_67,2,Sales Executive,43102
+68,Employee_68,1,Cashier,68825
+69,Employee_69,2,Support,69620
+70,Employee_70,3,Analyst,69733
+71,Employee_71,3,Support,41503
+72,Employee_72,10,Cashier,45816
+73,Employee_73,9,Analyst,65418
+74,Employee_74,8,Analyst,42681
+75,Employee_75,9,Sales Executive,27499
+76,Employee_76,5,Cashier,64152
+77,Employee_77,5,Cashier,25800
+78,Employee_78,2,Support,54687
+79,Employee_79,8,Cashier,35063
+80,Employee_80,6,Analyst,42603
